@@ -114,6 +114,7 @@ a {
     display: flex;
     justify-content: center;
     height: calc(100vh - 85px);
+    max-height: 700px;
     width: 1500px;
     position: relative;
     margin: auto;
